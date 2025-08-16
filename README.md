@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react,typescript,node**
 
-- 👨‍💻 All of my projects are available at [https://peppy-parfait-da3c0f.netlify.app/](https://peppy-parfait-da3c0f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://devraj-shrestha-portfolio.vercel.app/](https://devraj-shrestha-portfolio.vercel.app/)
 
 - 💬 Ask me about **react,js,typescript**
 
