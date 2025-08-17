@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debaraj-stha&label=Profile%20views&color=0e75b6&style=flat" alt="debaraj-stha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debaraj-stha" alt="debaraj-stha" /></a> </p>
-
 - 🔭 I’m currently working on [React Blog app](https://github.com/Debaraj-stha/react-blog.git)
 
 - 🌱 I’m currently learning **react,typescript,node**
 
-- 👨‍💻 All of my projects are available at [https://devraj-shrestha-portfolio.vercel.app/](https://devraj-shrestha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://peppy-parfait-da3c0f.netlify.app/](https://peppy-parfait-da3c0f.netlify.app/)
 
 - 💬 Ask me about **react,js,typescript**
 
 - 📫 How to reach me **dstha221@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yqHNGPVXs5swbOvAjHbv2OqXQN1bvAYj/view?usp=sharing](https://drive.google.com/file/d/1yqHNGPVXs5swbOvAjHbv2OqXQN1bvAYj/view?usp=sharing)
+- 📄 Portfolio [https://devraj-shrestha-portfolio.vercel.app/](https://devraj-shrestha-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
