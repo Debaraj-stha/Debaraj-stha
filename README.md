@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debaraj-stha&label=Profile%20views&color=0e75b6&style=flat" alt="debaraj-stha" /> </p>
 
-- 🔭 I’m currently working on [React Blog app](https://github.com/Debaraj-stha/react-blog.git)
+- 🔭 I’m currently working on [Online course platform](https://github.com/Debaraj-stha/online-cource-platform.git)
 
 - 🌱 I’m currently learning **react,typescript,node**
-
-- 👨‍💻 All of my projects are available at [https://peppy-parfait-da3c0f.netlify.app/](https://peppy-parfait-da3c0f.netlify.app/)
 
 - 💬 Ask me about **react,js,typescript**
 
 - 📫 How to reach me **dstha221@gmail.com**
 
-- 📄 Portfolio [https://devraj-shrestha-portfolio.vercel.app/](https://devraj-shrestha-portfolio.vercel.app/)
+- 📄 Portfolio [https://devrajshrestha.com.np/](https://devrajshrestha.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
